@@ -1,0 +1,14 @@
+To whom it might concern
+
+The version of Eclipse that I was using is newer than the one used across the university. If there are any problems with importing my code, please follow these steps:
+
+1) create a new java project in eclipse
+
+2) add contents from the src folder to the src folder in the newly-created project
+
+3) add Jars from the "Required JARs" catalogue to the newly-created project
+
+4) run "Core" class to start the program
+
+Kind Regards
+Zachariasz Jankowski
